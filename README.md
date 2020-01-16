@@ -2,7 +2,7 @@
 
 Simple AR game to challenge how fast you can spot and hit the red
 
-![Screenshot of the game play](https://github.com/wwwApp/hit-the-red/screenshot.png)
+![Screenshot of the game play](https://github.com/wwwApp/hit-the-red/blob/master/screenshot.png)
 
 ## How to install / play
 
